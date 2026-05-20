@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "3607eb3b476d3e24",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11e8fc11fb4729d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55aa7b726108933c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bem-vindo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bem-vindo"
+            }
+          },
+          {
+            "id": "f409278a94f6916b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bem-vindo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bem-vindo"
+            }
+          },
+          {
+            "id": "e7379341dfec1cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Project/JxComps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JxComps"
+            }
+          },
+          {
+            "id": "13297d2d23cce011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modules/jxcore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jxcore"
+            }
+          },
+          {
+            "id": "b1680d6c75917436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modules/jxcore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jxcore"
+            }
+          },
+          {
+            "id": "65d047ed0e57c08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modules/jxlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jxlog"
+            }
+          },
+          {
+            "id": "5f313b41fec04d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modules/jxcore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jxcore"
+            }
+          },
+          {
+            "id": "5aed35957e4de528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Modules/jxplatform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jxplatform"
+            }
+          },
+          {
+            "id": "c4bbda6dcb90cc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Project/JxComps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JxComps"
+            }
+          },
+          {
+            "id": "5f53de903a7ceda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Components/JxMenuDrawer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JxMenuDrawer"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7066172f8e337c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe145b069e1a44d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a2333bd75c00a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8d6a7e4c0b917c3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "JxComps",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "739efab8aa1b222a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0672a3a8d3086d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "833e6b8e906d10c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d6f3f6c9768b0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Components/JxMenuDrawer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para JxMenuDrawer"
+            }
+          },
+          {
+            "id": "a0d5fba86f04ce5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Components/JxMenuDrawer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para JxMenuDrawer"
+            }
+          },
+          {
+            "id": "cd6387a4f0dbd235",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8e6c6c32a342e8f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "98d025c56a298d51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Components/JxMenuDrawer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de JxMenuDrawer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "5f53de903a7ceda9",
+  "lastOpenFiles": [
+    "02_Components/JxPermissionHelper.md",
+    "02_Components/JxPlatformHelper.md",
+    "02_Components/JxResultModel.md",
+    "02_Components/JxDeviceInfoHelper.md",
+    "02_Components/JxConnectivityHelper.md",
+    "01_Modules/jxhttpclient.md",
+    "01_Modules/jxcore.md",
+    "02_Components/JxHttpClientService.md",
+    "01_Modules/jxplatform.md",
+    "00_Project/JxComps.md",
+    "01_Modules/jxWidgets.md",
+    "01_Modules/jxrdata.md",
+    "01_Modules/jxlog.md",
+    "02_Components/JxTextField.md",
+    "02_Components/JxTableGrid.md",
+    "02_Components/JxModelController.md",
+    "02_Components/JxModel.md",
+    "02_Components/JxMenuDrawer.md",
+    "02_Components/JxHttpRequestConfig.md",
+    "02_Components/JxHttpInterceptor.md",
+    "02_Components/JxForm.md",
+    "02_Components/JxFieldType.md",
+    "02_Components/JxField.md",
+    "02_Components/JxDialogs.md",
+    "02_Components/JxDbActionsbar.md",
+    "02_Components/JxCoreExceptions.md",
+    "99_Resources",
+    "02_Components",
+    "01_Modules",
+    "00_Project",
+    "Templates"
+  ]
+}
